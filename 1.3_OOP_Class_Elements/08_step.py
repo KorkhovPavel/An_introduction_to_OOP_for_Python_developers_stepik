@@ -27,3 +27,4 @@ fight_club = Movie('Бойцовский клуб', 'Дэвид Финчер', '
 print(titanic.title)
 print(star_wars.year)
 print(fight_club.director)
+
